@@ -1,0 +1,17 @@
+:root {
+  --dark-navy: #3e362e;      /* text, headings */
+  --navy: #93785b;           /* main background */
+  --light-navy: #a69080;     /* light background / cards */
+  --lightest-navy: #ac8968;  /* subtle contrast background */
+  --navy-shadow: rgba(62, 54, 46, 0.2);
+
+  --slate: #3e362e;          /* standard text */
+  --light-slate: #ac8968;
+  --lightest-slate: #f5f2ee;
+  --white: #ffffff;
+
+  --green-bright: #865d36;   /* accents, links, buttons */
+  --green-tint: rgba(134, 93, 54, 0.1); /* subtle hover */
+
+  --highlight: #ac8968;      /* secondary highlights */
+}
